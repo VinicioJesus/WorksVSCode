@@ -1,0 +1,16 @@
+/* criar um slider */
+main {
+  display: flex;
+  height: 100vh;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.slider-container {
+  height: 50vh;
+  width: 50vw;
+  background-color: black;
+
+  box-shadow: 0 20px 30px black, 0 0 0 10px black;
+}
