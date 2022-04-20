@@ -26,6 +26,7 @@ const criarSlider = (imagens) => {
 
   const sliderContainer = createElement("div");
   sliderContainer.classList.add("slider-item-container");
+
   sliderContainer.innerHTML = slider.join;
   criarSlider(imagens);
 
